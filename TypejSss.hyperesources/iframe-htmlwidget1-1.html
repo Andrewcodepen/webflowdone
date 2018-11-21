@@ -1,0 +1,112 @@
+
+<!DOCTYPE html><html lang='en' class=''>
+<head><script src='//static.codepen.io/assets/editor/live/console_runner-ce3034e6bde3912cc25f83cccb7caa2b0f976196f2f2d52303a462c826d54a73.js'></script><script src='//static.codepen.io/assets/editor/live/css_reload-2a5c7ad0fe826f66e054c6020c99c1e1c63210256b6ba07eb41d7a4cb0d0adab.js'></script><meta charset='UTF-8'><meta name="robots" content="noindex"><link rel="shortcut icon" type="image/x-icon" href="//static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico" /><link rel="mask-icon" type="" href="//static.codepen.io/assets/favicon/logo-pin-f2d2b6d2c61838f7e76325261b7195c27224080bc099486ddd6dccb469b8e8e6.svg" color="#111" /><link rel="canonical" href="https://codepen.io/AndrewDirect/pen/pQEMOJ" />
+
+
+<style class="cp-pen-styles">
+.center
+{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);	
+}
+.letter
+{
+	color: #fff; 
+	font-size: 6em;
+	margin: 0;
+	padding: 0;
+	transition: .5s;
+	transform: perspective(1000px) rotateX(35deg);
+}
+
+.letter	.char1,
+.letter	.char2,
+.letter .char3,
+.letter	.char4,
+.letter .char5,
+.letter	.char6,
+.letter .char7,
+.letter	.char8,
+.letter .char9,
+.letter	.char10,
+.letter .char11,
+.letter	.char12,
+.letter .char13,
+.letter .char14
+{
+	display: inline-block;
+	padding: 0 10px;
+	transition: .5s;
+	text-shadow: 0 5px 2px rgba(0, 0, 0, .1);
+	box-shadow: 10px 50px 20px rgba(0,0,0, .1);
+	filter: blur(.5px);	
+	
+}
+
+.letter	.char1,
+.letter .char3,
+.letter .char5,
+.letter .char7,
+.letter .char9,
+.letter .char11, 
+.letter .char13
+{
+	background: #ff54a1;
+	transform: skewY(-15deg);
+}
+letter	.char2,
+.letter .char4,
+.letter .char6,
+
+{
+  background: #d82475;
+  transform: skewY(15deg);
+}
+
+.letter:hover	.char1,
+.letter:hover	.char2,
+.letter:hover .char3,
+.letter:hover	.char4,
+.letter:hover .char5,
+.letter:hover	.char6
+
+{
+  background:  #ff54a1
+  transform: skewY(0deg)
+  filter: Blur(0px); 
+  box-shadow: 0 2px 2px rgba(0,0,0, .1);
+  
+ }
+
+.letter:hover
+{
+  
+  transform: perspective(0px) rotateX(0deg);
+  
+}
+</style></head><body>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Lettering.js</title>
+		<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+		<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1942137/jquery.lettering.js"></script>
+		<script>
+			  $(document).ready(function() {
+			    $(".letter").lettering();
+			  });
+		</script>
+	</head>
+	<body>
+	<div class="center">
+		<h1 class="letter">ANDREW 
+      CALIBER</h1>
+	</div>	
+		
+	</body>
+</html>
+
+</body></html>

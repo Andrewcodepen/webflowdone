@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 18 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-84.7795,-5.40867)">
+        <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+            <g transform="matrix(0.379465,-0.365224,0.246692,0.256312,12.9717,8.25156)">
+                <g transform="matrix(-0.526645,0.92313,-0.623428,-0.355665,31.9445,4.22451)">
+                    <clipPath id="_clip1">
+                        <path d="M19.576,14.069C19.576,14.546 9.681,18.638 9.204,18.638C8.725,18.638 8.045,18.077 8.045,17.6C8.045,17.122 9.398,17.344 9.204,16.906C-1.259,-6.662 19.576,13.591 19.576,14.069Z" clip-rule="nonzero"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(0.229268,-0.720322,0.544598,0.0468278,2.7087,18.0819)">
+                            <use xlink:href="#_Image2" x="0" y="0" width="17.57px" height="27.868px" transform="matrix(0.976135,0,0,0.995273,0,0)"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,2.47551,2.80322)">
+                    <path d="M14.357,7.415C14.357,7.746 14.089,8.012 13.757,8.012C13.427,8.012 13.16,7.746 13.16,7.415C13.16,7.084 13.427,6.817 13.757,6.817C14.089,6.817 14.357,7.084 14.357,7.415Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,6.40689,0.704751)">
+                    <path d="M11.656,11.54C11.656,11.775 11.465,11.964 11.23,11.964C10.996,11.964 10.805,11.775 10.805,11.54C10.805,11.304 10.996,11.114 11.23,11.114C11.465,11.114 11.656,11.304 11.656,11.54Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image2" width="18px" height="28px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAcCAYAAABsxO8nAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA+klEQVQ4je3UPU7DMBTA8b/jD8kVzQrZuvQMHIWFw3AdjsIJkACJlawklWM7rhlCKypBE7UdKtQnPfnz/QZbtmBi3Nze5X3r4lhgLzS1+E/oEGAHOgbYQqdAAIpTIOcJqbENudBkuUkDUlMYhTQSadQ2lVosvwcaZTTKGJTRSKOZW0NpNaU1Q84011eWqrRU8xlVadGyoG4c4uX9LQshqBvHR+Oo26H9dIGVj7RdZOV72i7iO09wHu/C0O8i65hIMSEW9w85xX6YCIl1TOQUESlAHxApQgrjZ+Ren3cmBBMe4C9xftd/gS7Q/4RGP7axqJ8excHQpvhnfAHq4WUxfZ71mQAAAABJRU5ErkJggg=="/>
+    </defs>
+</svg>

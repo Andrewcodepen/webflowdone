@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 7988 5392" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(5.55556,0,0,5.55556,-173.33,-373.643)">
+        <g transform="matrix(0.319437,-0.947608,0.947608,0.319437,-256.887,1620.24)">
+            <g>
+                <g transform="matrix(0.998662,-0.0517114,0.0517114,0.998662,-18.2874,38.0572)">
+                    <text x="726.317px" y="372.435px" style="font-family:'BackstagePassNF', 'Backstage Pass NF';font-size:431.172px;fill:url(#_Linear1);">L</text>
+                </g>
+                <g transform="matrix(0.96265,0.270748,-0.270748,0.96265,131.329,-251.698)">
+                    <text x="977.944px" y="350.151px" style="font-family:'BackstagePassNF', 'Backstage Pass NF';font-size:431.172px;fill:url(#_Linear2);">O</text>
+                </g>
+                <g transform="matrix(0.773445,0.633863,-0.633863,0.773445,581.639,-731.169)">
+                    <text x="1313.67px" y="448.081px" style="font-family:'BackstagePassNF', 'Backstage Pass NF';font-size:431.172px;fill:url(#_Linear3);">g</text>
+                </g>
+                <g transform="matrix(0.388228,0.921563,-0.921563,0.388228,1542.69,-1039.16)">
+                    <text x="1554.03px" y="642.364px" style="font-family:'BackstagePassNF', 'Backstage Pass NF';font-size:431.172px;fill:url(#_Linear4);">o</text>
+                </g>
+                <g transform="matrix(-0.13553,0.990773,-0.990773,-0.13553,2819.84,-594.676)">
+                    <text x="1669.35px" y="932.845px" style="font-family:'BackstagePassNF', 'Backstage Pass NF';font-size:431.172px;fill:url(#_Linear5);">S</text>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1280.43,605.542,-605.542,-1280.43,1278.38,391.067)"><stop offset="0" style="stop-color:rgb(255,169,0);stop-opacity:1"/><stop offset="0.52" style="stop-color:rgb(255,169,0);stop-opacity:0.0313725"/><stop offset="1" style="stop-color:rgb(255,169,0);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1019.16,983.616,-983.616,-1019.16,1270.71,280.63)"><stop offset="0" style="stop-color:rgb(255,169,0);stop-opacity:1"/><stop offset="0.52" style="stop-color:rgb(255,169,0);stop-opacity:0.0313725"/><stop offset="1" style="stop-color:rgb(255,169,0);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-539.511,1309.62,-1309.62,-539.511,1232.3,404.109)"><stop offset="0" style="stop-color:rgb(255,169,0);stop-opacity:1"/><stop offset="0.52" style="stop-color:rgb(255,169,0);stop-opacity:0.0313725"/><stop offset="1" style="stop-color:rgb(255,169,0);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(134.041,1410.04,-1410.04,134.041,1189.18,787.537)"><stop offset="0" style="stop-color:rgb(255,169,0);stop-opacity:1"/><stop offset="0.52" style="stop-color:rgb(255,169,0);stop-opacity:0.0313725"/><stop offset="1" style="stop-color:rgb(255,169,0);stop-opacity:0"/></linearGradient>
+        <linearGradient id="_Linear5" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(833.815,1144.96,-1144.96,833.815,1157.22,1397.29)"><stop offset="0" style="stop-color:rgb(255,169,0);stop-opacity:1"/><stop offset="0.52" style="stop-color:rgb(255,169,0);stop-opacity:0.0313725"/><stop offset="1" style="stop-color:rgb(255,169,0);stop-opacity:0"/></linearGradient>
+    </defs>
+</svg>
